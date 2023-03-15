@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image](https://user-images.githubusercontent.com/45429645/225321929-d26e75bd-8f45-4c35-a775-d3770d8c3abd.png)
+[![image](https://user-images.githubusercontent.com/45429645/225321929-d26e75bd-8f45-4c35-a775-d3770d8c3abd.png)](https://media.tenor.com/NZqiUoAnAFsAAAAC/cat-computer.gif)
 
 <!--
 **ermii42/ermii42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

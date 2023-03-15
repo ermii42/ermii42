@@ -2,11 +2,13 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/NZqiUoAnAFsAAAAC/cat-computer.gif"/>
 </div>
-<div id="badges">
-  <a href="your-telegram-URL">
-    <img src="https://t.me/ermii42" alt="Telegram Badge"/>
+## Socials
+<p align="left">
+
+  <a href="https://t.me/ermii42" target="_blank" rel="noreferrer">
+     <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="50" height="50"/>
   </a>
-</div>
+</p>
 <!--
 **ermii42/ermii42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

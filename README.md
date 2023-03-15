@@ -2,7 +2,8 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/NZqiUoAnAFsAAAAC/cat-computer.gif"/>
 </div>
-## Socials
+
+## Контакты:
 <p align="left">
 
   <a href="https://t.me/ermii42" target="_blank" rel="noreferrer">

@@ -3,7 +3,7 @@
   <img src="https://media.tenor.com/NZqiUoAnAFsAAAAC/cat-computer.gif"/>
 </div>
 
-## Контакты:
+## Contacts:
 <p align="left">
 
   <a href="https://t.me/ermii42" target="_blank" rel="noreferrer">

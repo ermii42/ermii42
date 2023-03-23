@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello there 👋
 <div id="header" align="center">
   <img src="https://media.tenor.com/NZqiUoAnAFsAAAAC/cat-computer.gif"/>
 </div>

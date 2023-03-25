@@ -8,7 +8,7 @@
 
 
 <br><br><br><br>
-### <samp><img src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png" width="35">find me on telegram [@ermii42](https://t.me/ermii42) 💭
+### <samp><img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="25">   find me on telegram [@ermii42](https://t.me/ermii42) 💭
 
 <!--
 **ermii42/ermii42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

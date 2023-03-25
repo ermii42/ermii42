@@ -1,15 +1,14 @@
-# Hello there 👋
-<div id="header" align="center">
-  <img src="https://media.tenor.com/NZqiUoAnAFsAAAAC/cat-computer.gif"/>
-</div>
+# ✧･ﾟ: *✧･ﾟ:*Hello there!*:･ﾟ✧*:･ﾟ✧
+<a href="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif"><img align="left" width="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/23335a137681793.620f4a02711c2.gif"></a><samp>
+  👩🏼‍💻 i'm mirea bachelor student <br> 
+  🚲 based in moscow <br>
+  🛸 playing: genshin, hearthstone, atomic heart  <br>
+  🌱 i also do creative things such as beadwork <br>
+<!--   🎧 listening to: <br></samp>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22thftxib35zraloo4ct2unwa&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) <br> -->
+<br><br><br><br><br><br><br><br>
+<samp><img src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png" width="35">find me on telegram [@ermii42](https://t.me/ermii42) 💭
 
-## Contacts:
-<p align="left">
-
-  <a href="https://t.me/ermii42" target="_blank" rel="noreferrer">
-     <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="50" height="50"/>
-  </a>
-</p>
 <!--
 **ermii42/ermii42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

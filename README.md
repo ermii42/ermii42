@@ -1,13 +1,13 @@
-# ✧･ﾟ: *✧･ﾟ:*Hello there!*:･ﾟ✧*:･ﾟ✧
+# Hello there!
 <!-- <br></br> -->
-<a href="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif"><img align="left" width="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/23335a137681793.620f4a02711c2.gif"></a><samp>
+<a href="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif"><img align="left" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI2N2VjMTNkYTdhMzMwYzU4YTQzYTlkMWQ3OGYwMTUwNjY0YTI1YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/JIX9t2j0ZTN9S/giphy.gif"></a><samp>
   ####   👩🏼‍💻 i'm mirea bachelor student 
   ####   🚲 based in moscow
-  ####   🛸 playing: genshin, hearthstone, atomic heart  <br>
-  ####   🌱 i also do creative things such as beadwork <br>
+  ####   🛸 currently learning: backend development, spring framework  <br>
+<!--   ####   🌱 i also do creative things such as beadwork <br> -->
 
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 ### <samp><img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="25">   find me on telegram [@ermii42](https://t.me/ermii42) 💭
 
 <!--

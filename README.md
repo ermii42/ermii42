@@ -1,9 +1,9 @@
 # Hello there!
 <!-- <br></br> -->
 <a href="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif"><img align="left" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI2N2VjMTNkYTdhMzMwYzU4YTQzYTlkMWQ3OGYwMTUwNjY0YTI1YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/JIX9t2j0ZTN9S/giphy.gif"></a><samp>
-  ####   👩🏼‍💻 i'm mirea bachelor student 
+  ####   👩🏼‍💻 i'm mirea student 
   ####   🚲 based in moscow
-  ####   🛸 currently learning: backend development, spring framework  <br>
+  ####   🛸 currently working at MTS Lab as Java developer  <br>
 <!--   ####   🌱 i also do creative things such as beadwork <br> -->
 
 
